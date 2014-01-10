@@ -6,5 +6,7 @@ public class Principale
 		System.out.println("kikou ca marche");
 		
 		System.out.println("hello maxime");
+		
+		System.out.println("Bonjour technicien !");
 	}
 }
